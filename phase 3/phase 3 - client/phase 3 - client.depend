@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1580673111 source:e:\university\fop\project\phase 3\phase 3 - client\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<winsock2.h>
+
+1580323297 e:\university\fop\project\phase 3\phase 3 - client\cjson.h
+	<stddef.h>
+
+1580323295 e:\university\fop\project\phase 3\phase 3 - client\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+

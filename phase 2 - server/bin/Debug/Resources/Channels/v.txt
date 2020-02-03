@@ -1,0 +1,7 @@
+{"name":"v"}
+{"sender":"server","content":"v created the channel."}
+{"sender":"v","content":"salam"}
+{"sender":"v","content":"salam manam khoobam"}
+{"sender":"v","content":"bashe khob!"}
+{"sender":"v","content":"aaaaaaaaa"}
+{"sender":"v","content":"salam?"}

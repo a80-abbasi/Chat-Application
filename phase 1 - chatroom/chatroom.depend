@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1577105358 source:e:\university\fop\project ;(\chatroom\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"cJSON.h"
+	<winsock2.h>
+
+1576229369 e:\university\fop\project ;(\chatroom\cjson.h
+	<stddef.h>
+
+1580385095 source:e:\university\fop\project\chatroom\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cJSON.h"
+	"cJSON.c"
+	<winsock2.h>
+
+1580323297 e:\university\fop\project\chatroom\cjson.h
+	<stddef.h>
+
+1580323295 e:\university\fop\project\chatroom\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1580544594 source:e:\university\fop\project\phase 1 - chatroom\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cJSON.h"
+	"cJSON.c"
+	<winsock2.h>
+
+1580323297 e:\university\fop\project\phase 1 - chatroom\cjson.h
+	<stddef.h>
+
+1580323295 e:\university\fop\project\phase 1 - chatroom\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
